@@ -15,7 +15,7 @@ import { NetworkProvider } from '@ton/blueprint';
 // ─────────────────────────────────────────────────────────────────────────────
 
 // ★ 배포된 Minter 주소
-const MINTER_ADDRESS = 'EQBeUlFobJcMr6Lf8KcSXWn7APxfMKEYX9j_rZsCm1qzKEVn';
+const MINTER_ADDRESS = 'EQBLnuEoDNOpXF4DWEG9mRv6dB38-eiqE3gJFnDeZZrZoLN2';
 
 // 소각량: 100,000 MOL (decimals 9). 잔고 이하로 설정.
 const BURN_AMOUNT = 100_000n * 1_000_000_000n;

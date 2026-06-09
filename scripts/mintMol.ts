@@ -13,7 +13,7 @@ import { NetworkProvider } from '@ton/blueprint';
 // ─────────────────────────────────────────────────────────────────────────────
 
 // ★ 배포된 Minter 주소 (deploy 출력의 "deployed at" — bounceable EQ.. 형식)
-const MINTER_ADDRESS = 'EQBeUlFobJcMr6Lf8KcSXWn7APxfMKEYX9j_rZsCm1qzKEVn';
+const MINTER_ADDRESS = 'EQBLnuEoDNOpXF4DWEG9mRv6dB38-eiqE3gJFnDeZZrZoLN2';
 
 // 발행량: 1,000,000 MOL (decimals 9). 필요하면 숫자만 바꾸면 됨.
 const MINT_AMOUNT = 1_000_000n * 1_000_000_000n;
